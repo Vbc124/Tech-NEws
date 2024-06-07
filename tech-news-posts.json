@@ -1,14 +1,17 @@
 [
     {
         "title": "Advertisers Inadvertently Funding...",
-        "url": "https://www.bloogenz.com/2024/06/advertisers-inadvertently-funding.html"
+        "url": "https://www.bloogenz.com/2024/06/advertisers-inadvertently-funding.html",
+        "thumbnail": "https://example.com/thumbnail1.jpg"
     },
     {
         "title": "Another Tech News Article",
-        "url": "https://www.bloogenz.com/2024/06/another-tech-news-article.html"
+        "url": "https://www.bloogenz.com/2024/06/another-tech-news-article.html",
+        "thumbnail": "https://example.com/thumbnail2.jpg"
     },
     {
         "title": "Yet Another Tech News Article",
-        "url": "https://www.bloogenz.com/2024/06/yet-another-tech-news-article.html"
+        "url": "https://www.bloogenz.com/2024/06/yet-another-tech-news-article.html",
+        "thumbnail": "https://example.com/thumbnail3.jpg"
     }
 ]
